@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.4.0">
+    <CLASSES>
+      <root url="jar://D:/TOOL/gradle-6.6.1-all/gradle-6.6.1/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.4.0/568b2867d73b4db7b57a014e023932173c7f6abe/kotlin-gradle-plugin-api-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/TOOL/gradle-6.6.1-all/gradle-6.6.1/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.4.0/46d226d5d10f9f65fd0cf5d99c14acc5cbf37373/kotlin-gradle-plugin-api-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

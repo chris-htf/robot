@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b7c24f2-4e90-4d9a-8bbc-b63e8284e9d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hKIZWQzHsNpKKcQeas5datl1nk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="Kotlin.net.mamoe.mirai.simpleloader.MyLoaderKt (1)">
+    <configuration name="mirai_cy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="net.mamoe.mirai.simpleloader.MyLoaderKt (1)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="mirai_cy.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="net.mamoe.mirai.simpleloader.MyLoaderKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="net.mamoe.mirai.simpleloader.MyLoaderKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="mirai_cy" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="net.mamoe.mirai.simpleloader.MyLoaderKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.net.mamoe.mirai.simpleloader.MyLoaderKt (1)" />
+        <item itemvalue="Gradle.mirai_cy" />
+        <item itemvalue="Kotlin.net.mamoe.mirai.simpleloader.MyLoaderKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b7c24f2-4e90-4d9a-8bbc-b63e8284e9d1" name="Default Changelist" comment="" />
+      <created>1599753412243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599753412243</updated>
+      <workItem from="1599753415260" duration="800000" />
+      <workItem from="1599754966290" duration="1236000" />
+      <workItem from="1599756227069" duration="522000" />
+      <workItem from="1599756758680" duration="2382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599756838032">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1599756838032" />
+    <state x="870" y="446" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1599757222618">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="870" y="446" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1599757222618" />
+    <state x="784" y="235" key="FileChooserDialogImpl" timestamp="1599756719102">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="784" y="235" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1599756719102" />
+    <state width="1002" height="376" key="GridCell.Tab.0.bottom" timestamp="1599759140238">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="376" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1599759140238" />
+    <state width="1002" height="376" key="GridCell.Tab.0.center" timestamp="1599759140238">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="376" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1599759140238" />
+    <state width="1002" height="376" key="GridCell.Tab.0.left" timestamp="1599759140238">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="376" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1599759140238" />
+    <state width="1002" height="376" key="GridCell.Tab.0.right" timestamp="1599759140238">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="376" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1599759140238" />
+    <state width="1002" height="376" key="GridCell.Tab.1.bottom" timestamp="1599759132269">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="376" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1599759132269" />
+    <state width="1002" height="376" key="GridCell.Tab.1.center" timestamp="1599759132269">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="376" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1599759132269" />
+    <state width="1002" height="376" key="GridCell.Tab.1.left" timestamp="1599759132269">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="376" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1599759132269" />
+    <state width="1002" height="376" key="GridCell.Tab.1.right" timestamp="1599759132269">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="376" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1599759132269" />
+    <state x="505" y="131" key="SettingsEditor" timestamp="1599756722955">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="131" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1599756722955" />
+    <state x="705" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1599754973771">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="705" y="381" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1599754973771" />
+    <state x="434" y="158" key="new project wizard" timestamp="1599755257734">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="434" y="158" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1599755257734" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/net.mamoe.mirai.simpleloader/MyLoader.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/net.mamoe.mirai.simpleloader/MyLoader.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
