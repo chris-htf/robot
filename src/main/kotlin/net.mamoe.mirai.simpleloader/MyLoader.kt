@@ -17,6 +17,12 @@ suspend fun main() {
         case("at me") {
             reply(At(sender as Member) + " 给爷爬 ")
         }
+        case("大圣此去何处") {
+            reply("踏碎凌霄")
+        }
+        case("若一去不回") {
+            reply("便一去不回")
+        }
 
         (contains("舔") or contains("刘老板")) {
             reply("刘老板太强了")
