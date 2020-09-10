@@ -20,6 +20,9 @@ suspend fun main() {
         case("大圣此去何处") {
             reply("踏碎凌霄")
         }
+        case("hello") {
+            reply("world")
+        }
         case("若一去不回") {
             reply("便一去不回")
         }
